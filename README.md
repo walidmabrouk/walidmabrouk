@@ -2,13 +2,6 @@
 
 Welcome to my GitHub! I'm a **Master's student in IoT Service Development**, passionate about building cutting-edge solutions with a focus on **IoT**, **embedded systems**, and **web development**. I enjoy solving complex challenges in **network security** and **system integration**.
 
-## 🚀 About Me
-
-- 🎓 **Master's Degree in IoT Service Development** (Ranked 1st)
-- 🖥️ Background in **Network Security** and **Information Technology**
-- 💼 Open to internship or Master’s thesis or internship opportunities starting **February 2025**
-- 💡 Focused on developing impactful solutions through IoT and systems integration
-
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
@@ -37,17 +30,6 @@ Welcome to my GitHub! I'm a **Master's student in IoT Service Development**, pas
 
 ### Tools & Platforms
 - 🔧 **Git**, **GitHub**, **Jira**
-
-
-## 🌍 Languages
-- 🇬🇧 **English**: Proficient
-- 🇫🇷 **French**: Proficient
-- 🇩🇪 **German**: Beginner (A2)
-- 🇹🇳 **Arabic**: Native
-
-## 🤖 Interests
-- **Robotics**
-- **Reading computer science books**
 
 ## 📫 Let's Connect!
 - **Email**: walid.mabrouk@edu.isetcom.tn
