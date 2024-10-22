@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Master's student in IoT Service Development**, pas
 
 - 🎓 **Master's Degree in IoT Service Development** (Ranked 1st)
 - 🖥️ Background in **Network Security** and **Information Technology**
-- 💼 Open to internship or Master’s thesis opportunities starting **February 2025**
+- 💼 Open to internship or Master’s thesis or internship opportunities starting **February 2025**
 - 💡 Focused on developing impactful solutions through IoT and systems integration
 
 ## 🛠️ Skills & Technologies
@@ -38,22 +38,6 @@ Welcome to my GitHub! I'm a **Master's student in IoT Service Development**, pas
 ### Tools & Platforms
 - 🔧 **Git**, **GitHub**, **Jira**
 
-## 🏗️ Featured Projects
-
-### 🚇 Smart Elevator System
-*Oct 2024 – Ongoing*
-
-- Designed a **smart elevator system** with real-time monitoring of position, direction, and occupancy.
-- Developed a **mobile app** for users to reserve the elevator after payment.
-- **Technologies**: TTGO, Raspberry Pi, Mosquitto, MQTT, WebSocket, Flutter, .NET, MongoDB
-
-### 📡 IoT RFID System
-*Jun 2024 – Aug 2024*
-
-- Implemented an advanced **RFID system** to manage energy resources in a marina, improving access control.
-- **Technologies**: C++, ESP32, Mosquitto, SMC RFID Reader, Clean Architecture, PlatformIO, Git
-
-More projects can be found in my [GitHub repositories](https://github.com/walidmabrouk).
 
 ## 🌍 Languages
 - 🇬🇧 **English**: Proficient
@@ -66,5 +50,5 @@ More projects can be found in my [GitHub repositories](https://github.com/walidm
 - **Reading computer science books**
 
 ## 📫 Let's Connect!
-- **GitHub**: [walidmabrouk](https://github.com/walidmabrouk)
+- **Email**: walid.mabrouk@edu.isetcom.tn
 - **LinkedIn**: [Walid Mabrouk](https://www.linkedin.com/in/walid-mabrouk)
