@@ -16,4 +16,3 @@ I'm a **Master's student in IoT Service Development**, passionate about **IoT**,
 ## 📫 Contact
 - **Email**: walid.mabrouk@edu.isetcom.tn
 - **LinkedIn**: [Walid Mabrouk](https://www.linkedin.com/in/walid-mabrouk)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidmabrouk&show_icons=true&locale=en" alt="walidmabrouk" /></p>
