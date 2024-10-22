@@ -3,6 +3,7 @@
 I'm a **Master's student in IoT Service Development**, passionate about **IoT**, **embedded systems**, and **network security**. I'm always eager to work on innovative projects and develop solutions for real-world problems.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walidmabrouk" alt="walidmabrouk" /></a> </p>
+
 ## 🔧 Skills
 - **Languages**: C, C++, MicroPython, C#, JavaScript
 - **Embedded Devices**: ESP32, TTGO, Raspberry Pi
